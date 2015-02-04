@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D47E0AB8-91AB-46BE-B8FA-93C8ECDDA085</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Lesson38-HomeWork-MapKit</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D77AF8AF22751421B54F49C16C5E8971C962012E</key>
+		<string>https://github.com/iOSDevCourseBeginner/LS-38-MapKit.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Lesson38-HomeWork-MapKit.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D77AF8AF22751421B54F49C16C5E8971C962012E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/iOSDevCourseBeginner/LS-38-MapKit.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D77AF8AF22751421B54F49C16C5E8971C962012E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D77AF8AF22751421B54F49C16C5E8971C962012E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Lesson38-HomeWork-MapKit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
